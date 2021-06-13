@@ -20,7 +20,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typed", {
-        strings: ["Software Engineer", "C++ Developer", "CS Graduate"],
+        strings: ["Software Developer", "Back-End Developer", "CS Graduate"],
         typeSpeed: 70,
         loop: true,
         startDelay: 1000,
