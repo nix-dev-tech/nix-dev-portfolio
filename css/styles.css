@@ -55,7 +55,7 @@ body{
 }
 
 .skillsSection, .contactSection{
-    background-color: crimson;
+    background-color: firebrick;
     color: white;
 }
 
@@ -106,7 +106,7 @@ body{
 
 .contactButton:hover{
     text-decoration: none;
-    color: crimson;
+    color: firebrick;
     background-color: white;
 }
 
@@ -119,8 +119,8 @@ body{
 }
 
 .filter .current{
-    background-color: crimson;
-    border-color: crimson;
+    background-color: firebrick;
+    border-color: firebrick;
     color: white;
 }
 
@@ -183,7 +183,7 @@ body{
 .items a{
     width: 40px;
     height: 40px;
-    background-color: crimson;
+    background-color: firebrick;
     position: relative;
     display: inline-block;
     transition: all 0.2s linear, 0.2s;
@@ -251,7 +251,7 @@ body{
 }
 
 #navigation{
-    background-color: crimson;
+    background-color: firebrick;
     padding: 20px 10px;
     z-index: 100;
     width: 100%;
